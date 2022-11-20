@@ -1,6 +1,6 @@
 {
-    "name": "Roblox Extension",
-    "description": "Extension for https://www.roblox.com",
+    "name": "Roblox Game Randomizer",
+    "description": "Extension for https://www.roblox.com to help you find games.",
     "version": "1.0.0",
     "manifest_version": 3,
 
